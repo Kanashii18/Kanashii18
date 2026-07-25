@@ -1,4 +1,4 @@
-<h2 align="left">My name is Kanashii, I like to help in any way i can :D</h2>
+<h2 align="left">My name is Kana, I like to help in any way i can :D</h2>
 
 ###
 
