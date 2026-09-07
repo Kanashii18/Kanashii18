@@ -9,7 +9,7 @@
   
   <li> 
     <div>
-      <h3> I have experience with</h3>h3>
+      <h3> I have experience with</h3>
       <p align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
         <img width="12" />
