@@ -1,7 +1,7 @@
 <ul>
   <li>
     <h2 align="left">Hi! I'm Kana</h2>
-    <h3 align="left">I have an afition to backend, however i can work with frontend too, specialy with react/next.js, i like logic problems like scalability problems, comceptuals problems, or schemes.</h3>
+    <h3 align="left">I have an affinity to backend, however i can work with frontend too, specially with React/Next.js, i like logic problems like scalability problems, conceptuals problems, or system designs</h3>
     <h4 allgn="left">If you wanna tell me something you're welcome to :D</h4>
   </li>
   
