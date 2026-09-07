@@ -1,4 +1,4 @@
-<ul
+<ul>
   <li>
     <h2 align="left">Hi! I'm Kana</h2>
     <h3 align="left">I have an afition to backend, however i can work with frontend too, specialy with react/next.js, i like logic problems like scalability problems, comceptuals problems, or schemes.</h3>
