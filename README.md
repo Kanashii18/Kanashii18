@@ -1,12 +1,12 @@
-<h2 align="left">My name is Kana, I like to help in any way i can :D</h2>
-
-###
+<h2 align="left">Hi! I'm Kana</h2>
+<h3 align="left">I have an afition to backend, however i can work with frontend too, specialy with react/next.js, i like logic problems like scalability problems, comceptuals problems, or schemes.</h1>
+<h4 allgn="left">If you wanna tell me something you're welcome to :D</h4>
 
 <br clear="both">
 
 <img align="right" height="151" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyY2FqOGxzYWF4NDhnaDhvNWlleGc4em92b21tamptMmpnNzRhaTZpaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GLRy7mt9XBqgHOVWg/200.gif"  />
 
-###
+### I have experience with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg" height="30" alt="goland logo"  />
 </div>
 
-###
+### Contact me
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
