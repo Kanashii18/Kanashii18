@@ -2,12 +2,9 @@
   <ul>
     <li>
       <h2 align="left">Hi! I'm Kana</h2>
-      <h3 align="left">I have an afition to backend, however i can work with frontend too, specialy with react/next.js, i like logic problems like scalability problems, comceptuals problems, or schemes.</h1>
+      <h3 align="left">I have an afition to backend, however i can work with frontend too, specialy with react/next.js, i like logic problems like scalability problems, comceptuals problems, or schemes.</h3>
       <h4 allgn="left">If you wanna tell me something you're welcome to :D</h4>
     </li>
-    
-    
-    <br clear="both">
     
     <img align="right" height="151" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyY2FqOGxzYWF4NDhnaDhvNWlleGc4em92b21tamptMmpnNzRhaTZpaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1GLRy7mt9XBqgHOVWg/200.gif"  />
     
